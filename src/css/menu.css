@@ -1,0 +1,44 @@
+/* 
+.menuContainer{
+    background: linear-gradient(0deg, rgba(7, 194, 7, 0.712),white, rgba(9, 207, 9, 0.74));
+    
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:3px;
+}
+
+.menu-item{}
+
+.menu-btn{
+    color: white;
+    background: rgba(17, 182, 17, 0.747);
+    height: 5vh;
+    width: 200px;
+} */
+
+
+.menuContainer{
+    background: linear-gradient(0deg, rgba(7, 194, 7, 0.712),white, rgba(9, 207, 9, 0.74));
+    
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:3px;
+    
+}
+
+.menu-item{}
+
+.menu-btn{
+    color: white;
+    background: rgba(17, 182, 17, 0.747);
+    height: 5vh;
+    width: 200px;
+}
